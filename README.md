@@ -17,4 +17,4 @@ Here is a flowchart I drew when I'm planning out my program:
 ![Flowchart](Flowchart.jpg)
 
 ## How to Run
-Go into the src folder and run `javac *.java` in the terminal, then run `java Main`.
+Go into the src/java folder and run `javac *.java` in the terminal, then run `java Main`.
