@@ -7,9 +7,6 @@ It's a very intersting experience looking at the code I wrote two years ago, esp
 
 As that being said, this project might not be that helpful if you want to build something that can compete in App store, but if you want to look at some example about how to build GUI using Java, this could be a start for you. Happy learning!
 
-## How to Run
-Go into the src folder and run `javac *.java` in the terminal, then run `java Main`.
-
 ## Overview and Design Choices
 This is a Java program with GUI that allows for (very naive) login, write, and read diary, build for a client who is a high school teacher. Since the user's need is to save time, when designing this app I add a special function so user can insert stickers to replace writing.
 
@@ -17,4 +14,7 @@ I choose to use swing in this project to write GUI because it's a easy way to st
 
 Here is a flowchart I drew when I'm planning out my program:
 
-![Flowchart](Flowchart.png)
+![Flowchart](Flowchart.jpg)
+
+## How to Run
+Go into the src folder and run `javac *.java` in the terminal, then run `java Main`.
